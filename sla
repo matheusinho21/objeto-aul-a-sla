@@ -1,0 +1,21 @@
+const cliente = {
+    nome: "Magali",
+    profissão: "Pedagoga", 
+    idade: 34,
+    email: "go@gmail.com",
+    telefone: ["41 95564-4356", "41 94367-9567"] 
+}
+
+console.log(cliente) //apresenta os dados
+
+console.log(pessoa.telefone) //Gera uma mensagem reservada
+
+pessoa.telefone = "41 94685-4356" // atribuição de uma propriedade
+
+console.log(pessoa.telefone) // agora vai apresentar o telefone 
+
+console.log(pessoa) //apresenta todo o objeto 
+
+const novaPessoa = {
+    nome: 'teste'
+}
