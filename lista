@@ -1,0 +1,7 @@
+const cliente = {
+    nome: "Magali",
+    profissão: "Pedagoga", 
+    idade: 34,
+    email: "go@gmail.com",
+    telefone: ["41 95564-4356", "41 94367-9567"] 
+}
