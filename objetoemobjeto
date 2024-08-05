@@ -1,0 +1,10 @@
+cliente.endereco = {
+    rua: 'sete de setembro',
+    numero: 345,
+    apartamento: true,
+    complemento: "ap 21"
+}
+
+console.log(cliente)
+
+console.log(cliente.endereco.rua) 
